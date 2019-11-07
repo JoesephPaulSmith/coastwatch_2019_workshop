@@ -17,9 +17,9 @@ Color Producing Agent (CPA) Dissolved Organic Carbon, VIIRS, Lake Erie (2018-pre
 
 Color Producing Agent (CPA) Suspended Minerals, VIIRS, Lake Erie (2018-present)
 
---- Select a time range for the data. In my case, I did End of April 2019 through roughly present for each data set
---- Select .nc for the file type
---- Click submit. The file should download, cut and paste it into the folder you want to work from
+- Select a time range for the data. In my case, I did End of April 2019 through roughly present for each data set
+- Select .nc for the file type
+- Click submit. The file should download, cut and paste it into the folder you want to work from
 
 Then ensure os.chdir at the top of the notebook points to the folder you wish to work from
 
