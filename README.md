@@ -1,6 +1,8 @@
 # coastwatch_2019_workshop
 Jupyter Notebook for CoastWatch 2019 Workshop
 
+This is intended to be ran on the desktop. Additional work required to do a cloud setup
+
 To get the files in the analysis:
 
 - Goto https://coastwatch.glerl.noaa.gov/erddap/info/
